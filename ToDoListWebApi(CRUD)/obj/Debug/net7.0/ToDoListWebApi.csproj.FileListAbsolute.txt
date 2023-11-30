@@ -1,0 +1,355 @@
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfoInputs.cache
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfo.cs
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.exe
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.deps.json
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.runtimeconfig.json
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.pdb
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoListWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoListWebApi.props
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListWebApi.props
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoListWebApi.props
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\scopedcss\bundle\ToDoListWebApi.styles.css
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CopyComplete
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\refint\ToDoListWebApi.dll
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.pdb
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.genruntimeconfig.cache
+C:\Users\gurba\source\repos\ToDoListWebApi\obj\Debug\net7.0\ref\ToDoListWebApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\appsettings.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.exe
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.deps.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.runtimeconfig.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.pdb
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.AssemblyReference.cache
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfoInputs.cache
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfo.cs
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CoreCompileInputs.cache
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoListWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoListWebApi.props
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListWebApi.props
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoListWebApi.props
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\scopedcss\bundle\ToDoListWebApi.styles.css
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CopyComplete
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\refint\ToDoListWebApi.dll
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.pdb
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.genruntimeconfig.cache
+D:\gurba\projects\Homeworks-Angular-React-AspNetWebApi\ToDoList\ToDoListWebApi\obj\Debug\net7.0\ref\ToDoListWebApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\appsettings.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.exe
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.deps.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.runtimeconfig.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.pdb
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.AssemblyReference.cache
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfoInputs.cache
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfo.cs
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoListWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoListWebApi.props
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListWebApi.props
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoListWebApi.props
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\scopedcss\bundle\ToDoListWebApi.styles.css
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CopyComplete
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\refint\ToDoListWebApi.dll
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.pdb
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.genruntimeconfig.cache
+C:\ScanDisk\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ref\ToDoListWebApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\appsettings.json
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.exe
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.deps.json
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.runtimeconfig.json
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\ToDoListWebApi.pdb
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Important Files\MyProjects\ToDoListWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.AssemblyReference.cache
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfoInputs.cache
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfo.cs
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoListWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoListWebApi.props
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListWebApi.props
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoListWebApi.props
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\scopedcss\bundle\ToDoListWebApi.styles.css
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.csproj.CopyComplete
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\refint\ToDoListWebApi.dll
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.pdb
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ToDoListWebApi.genruntimeconfig.cache
+C:\Important Files\MyProjects\ToDoListWebApi\obj\Debug\net7.0\ref\ToDoListWebApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\appsettings.Development.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\appsettings.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\ToDoListWebApi.exe
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\ToDoListWebApi.deps.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\ToDoListWebApi.runtimeconfig.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\ToDoListWebApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\ToDoListWebApi.pdb
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Azure.Core.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.csproj.AssemblyReference.cache
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfoInputs.cache
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.AssemblyInfo.cs
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets\msbuild.ToDoListWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoListWebApi.props
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListWebApi.props
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoListWebApi.props
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\scopedcss\bundle\ToDoListWebApi.styles.css
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.csproj.CopyComplete
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\refint\ToDoListWebApi.dll
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.pdb
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ToDoListWebApi.genruntimeconfig.cache
+C:\Important Files\Samples\ToDoListWebApi(CRUD)\obj\Debug\net7.0\ref\ToDoListWebApi.dll
